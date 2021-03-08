@@ -1,0 +1,4 @@
+rootProject.name = 'gradle-multi-mani'
+include 'gradle-mani-core'
+include 'gradle-mani-app'
+include 'gradle-mani-web'
